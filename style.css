@@ -476,6 +476,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    padding: 0 10px;
 }
 .project__technologies {
     display: flex;
@@ -883,7 +884,7 @@ body {
     }
     .about {
         display: flex;
-        height: 425px;
+        height: 480px;
         gap: 0;
     }
     .name2 {
@@ -1108,7 +1109,7 @@ body {
         display: flex;
         flex-direction: column;
         max-width: 305px;
-        height: 286px;
+        height: 405px;
     }
     .project-wrapper {
         flex-direction: column;
